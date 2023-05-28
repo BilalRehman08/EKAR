@@ -60,7 +60,7 @@ with the message "Thank you for choosing ekar."
 
 ## Passed Test Cases Screenshots
 
-![Uploading Screenshot 2023-05-29 at 1.53.22 AM.png…]()
+<img width="793" alt="Screenshot 2023-05-29 at 1 53 22 AM" src="https://github.com/BilalRehman08/EKAR/assets/53112208/14c0a0e7-c291-4b1c-8c5e-646fac597d0c">
 
 <img width="769" alt="Screenshot 2023-05-29 at 1 53 37 AM" src="https://github.com/BilalRehman08/EKAR/assets/53112208/77e4c176-57e3-4e13-a365-6c5f2a7f2383">
 
