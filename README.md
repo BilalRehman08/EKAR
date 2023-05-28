@@ -2,6 +2,9 @@
 
 This project documentation provides an overview of application, which utilises the stacked state management approach following the MVVM (Model-View-ViewModel) architecture. The project includes the implementation of models, views, and view models, while adhering to the principles of clean code architecture. Additionally, location permission handling and internet activity checks have been integrated to ensure a seamless user experience. Furthermore, an app icon has been added to enhance the application's visual appeal. The usage of the Envied library for secure API key and VIN handling and the creation of reusable widgets contribute to the overall efficiency and maintainability of the codebase.I have also written some basic widget and unit tests for project. Widget tests help catch UI-related issues and ensure the proper functioning of user interface components. Unit tests allow us to test code's behaviour in different scenarios, covering edge cases and ensuring the correctness of  application's logic. These tests approach help catch issues early, improve maintainability, and provide confidence in the stability and correctness of code. 
 
+## Project APK
+
+
 
 ## Project Video
 
