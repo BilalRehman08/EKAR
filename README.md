@@ -2,15 +2,20 @@
 
 This project documentation provides an overview of application, which utilises the stacked state management approach following the MVVM (Model-View-ViewModel) architecture. The project includes the implementation of models, views, and view models, while adhering to the principles of clean code architecture. Additionally, location permission handling and internet activity checks have been integrated to ensure a seamless user experience. Furthermore, an app icon has been added to enhance the application's visual appeal. The usage of the Envied library for secure API key and VIN handling and the creation of reusable widgets contribute to the overall efficiency and maintainability of the codebase.I have also written some basic widget and unit tests for project. Widget tests help catch UI-related issues and ensure the proper functioning of user interface components. Unit tests allow us to test code's behaviour in different scenarios, covering edge cases and ensuring the correctness of  application's logic. These tests approach help catch issues early, improve maintainability, and provide confidence in the stability and correctness of code. 
 
+
 ## Project Video
 
 https://github.com/BilalRehman08/EKAR/assets/53112208/bf0d2372-6158-4c4d-b90d-b6051f0c5afd
+
+
 
 ## Loading Screen
 
 Appears when getting user's location & API request is in process
 
 ![loading](https://github.com/BilalRehman08/EKAR/assets/53112208/3a8815d0-244a-4f26-b3ed-bd9e661b8e1a)
+
+
 
 ## Map Screen
 
@@ -19,6 +24,8 @@ Appears when getting user's location & API request is in process
 (named “viewVehicle ”)
 
 ![map](https://github.com/BilalRehman08/EKAR/assets/53112208/a4e4d85c-0091-428e-b295-15c604e95f46)
+
+
 
 ## Vehicle Screen
 
@@ -32,6 +39,8 @@ component is fixed
 displayed
 
 ![vehicle](https://github.com/BilalRehman08/EKAR/assets/53112208/18f7be78-8816-413d-9999-a0f958465e7b)
+
+
 
 ## OnBoard Screen
 
@@ -47,6 +56,21 @@ not requesting you to “post/push” the data.
 with the message "Thank you for choosing ekar."
 
 ![onboard](https://github.com/BilalRehman08/EKAR/assets/53112208/6b3b87ef-2fb1-4dd1-b13b-3a3612aa671e)
+
+
+## Passed Test Cases Screenshots
+
+![Uploading Screenshot 2023-05-29 at 1.53.22 AM.png…]()
+
+<img width="769" alt="Screenshot 2023-05-29 at 1 53 37 AM" src="https://github.com/BilalRehman08/EKAR/assets/53112208/77e4c176-57e3-4e13-a365-6c5f2a7f2383">
+
+<img width="716" alt="Screenshot 2023-05-29 at 1 53 48 AM" src="https://github.com/BilalRehman08/EKAR/assets/53112208/65c9ba44-ede0-44f3-a70b-976d2fe08257">
+
+<img width="686" alt="Screenshot 2023-05-29 at 1 54 10 AM" src="https://github.com/BilalRehman08/EKAR/assets/53112208/cfbaee2a-9d5a-4fc2-94dd-d2519a217403">
+
+
+
+
 
 
 
